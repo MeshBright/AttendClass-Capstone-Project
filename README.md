@@ -31,4 +31,4 @@ This project abandons standard single-core microcontroller loops in favor of a m
 
 ## 👨‍💻 Contributors
 * **[Zang Methushael]** - Lead Embedded Systems Engineer (Hardware/Firmware)
-* **[Abolarinwa Samuel]** - Lead Software Engineer (Cloud Backend & Dashboard)
+* **[Ayomide Samuel]** - Lead Software Engineer (Cloud Backend & Dashboard)
